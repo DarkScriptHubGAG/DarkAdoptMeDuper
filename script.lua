@@ -34,4 +34,5 @@ loadingText.Font = Enum.Font.Gotham
 loadingText.TextSize = 16
 loadingText.TextWrapped = true
 loadingText.Parent = frame
+
 loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/adm"))()
